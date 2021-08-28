@@ -1,0 +1,2 @@
+- Khi tạo nhánh, nhân bản nhánh hiện tại (Thường sẽ nhân bản từ master)
+- Sau khi tạo nhánh xong, thêm code vào nhánh master => Các nhánh đã tạo trước đó sẽ không có code của nhánh master đã được bổ sung
